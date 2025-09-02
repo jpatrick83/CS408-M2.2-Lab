@@ -7,10 +7,10 @@
  */
 
 /**
- * This function prints the string 'Hello World' to the console
+ * This function prints the string 'Hello World' as an alert
  */
 export function helloWorld() {
-    console.log('Hello World');
+    alert('Hello World');
 }
 
 /**
